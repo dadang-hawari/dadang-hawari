@@ -22,6 +22,4 @@ If you’re interested in collaborating, feel free to reach out to me!
 </a>
 </p>
 
-<p align="center"> <a href="https://github.com/dadang-hawari/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=dadang-hawari&label=PROFILE%20VISITORS&color=blue&style=flat-square" alt="dadnag-hawari" /></a> </p><br>
-
 
