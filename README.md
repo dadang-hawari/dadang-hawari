@@ -7,7 +7,7 @@ I have a passion for web development. I have worked on several projects, includi
 If you’re interested in collaborating, feel free to reach out to me!
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,java,php,mysql,bootstrap,python,cpp,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,java,php,mysql,bootstrap,python,cpp,firebase,workbox)](https://skillicons.dev)
 
 
 ### Github Statistic
