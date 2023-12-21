@@ -5,7 +5,7 @@ My name is **Muh. Dadang Hawari** and I am a student majoring in Computer Engine
 I have a passion for web development. I have worked on several projects, including an academic information system, a project called “Love for UMKM.” and more.
 
 If you’re interested in collaborating, feel free to reach out to me!
-
+ 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,java,php,mysql,bootstrap,python,cpp,firebase,androidstudio)](https://skillicons.dev)
 
