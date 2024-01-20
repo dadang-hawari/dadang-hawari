@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello" alt="hello"/>
 </p>
 
 My name is <strong>Muh. Dadang Hawari</strong> and I am a student majoring in Computer Engineering at the State University of Makassar.
