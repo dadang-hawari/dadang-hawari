@@ -10,7 +10,7 @@ If you’re interested in collaborating, feel free to reach out to me!
 
  
 ### Tech Stack
-![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,java,php,mysql,bootstrap,python,cpp,firebase,androidstudio,netlify,vercel)
+![My Skills](https://skillicons.dev/icons?i=<div style=`display:flex; flex-wrap:wrap`>js,html,css,figma,java,php,mysql,tailwind,bootstrap,python,cpp,firebase,androidstudio,netlify,vercel</div>)
 
 
 ### Github Statistic
