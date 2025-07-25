@@ -1,8 +1,5 @@
-# Hello 
 
-My name is <strong>Muh. Dadang Hawari</strong> 
-
-I have a passion for web development.<h1 align="center">Hi 👋, I'm Muh. Dadang Hawari</h1>
+<h1 align="center">Hi 👋, I'm Muh. Dadang Hawari</h1>
 <p align="center">💻 Web Developer | 🧠 Continuous Learner | 🤝 Open for Collaboration</p>
 
 ---
