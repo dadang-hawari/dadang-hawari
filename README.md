@@ -48,14 +48,6 @@ I'm a passionate and detail-oriented web developer with a strong interest in bui
 
 <p align="center">🔥 Striving to make an impact through code and collaboration</p>
 
-
-If you’re interested in collaborating, feel free to reach out to me!
-
- 
-### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,laravel,react,redux,vite,html,css,java,php,mysql,tailwind,bootstrap,jquery,python,cpp,firebase,androidstudio,netlify,vercel&perline=10)]
-
-
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/dadang-hawari">
